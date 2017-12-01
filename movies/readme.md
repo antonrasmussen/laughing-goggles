@@ -19,7 +19,7 @@ Required Library (Version of Python used)
 - fresh_tomatoes.pyc
 - media.pyc
  
-### Etc
+### Etc:
 - fresh_tomatoes.html
 - readme.md
 
