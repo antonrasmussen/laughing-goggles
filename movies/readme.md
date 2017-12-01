@@ -5,29 +5,29 @@ to create a movies trailor website. Specifically, this website is designed as
 a Pixar Movie Trailer Website, containing links to all Pixar movie trailers.
 
 
-##Introduction :
+## Introduction :
 What your application is all about,
 Required Library (Version of Python used)
 
-##Contents :
-#Project files:
+## Contents :
+# Project files:
 - entertainment.py - holding all movie classes
 - fresh_tomatoes.py - Udacity's provided code
 - media.py - movie class
 
-#Compiled Python files:
+# Compiled Python files:
 - fresh_tomatoes.pyc
 - media.pyc
  
-#Etc
+# Etc
 - fresh_tomatoes.html
 - readme.md
 
-##Operating Instructions
-#Navigation to the project folder
+## Operating Instructions
+# Navigation to the project folder
 ./movies/
 
-#How-To
+# How-To
 Clone the repo and then run	`python entertainment_center.py`
 
 
