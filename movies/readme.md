@@ -23,9 +23,8 @@ Required Library (Version of Python used)
 - fresh_tomatoes.html
 - readme.md
 
-## Operating Instructions
 ## Navigation to the project folder
-./movies/
+laughing-goggles/movies/
 
 ## How-To
 Clone the repo and then run	`python entertainment_center.py`
